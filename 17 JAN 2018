@@ -1,4 +1,3 @@
 Downloaded Anaconda
 Tried to download Keras over Tensorflow
-Came to know that Tensorflow is not designed to work on thon 2.7
-We need to install Python3.5 or 3.6 or run anaconda as VM
+Came to know that Tensorflow is designed to work on Python 2.5.2
